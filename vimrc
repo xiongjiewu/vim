@@ -113,7 +113,7 @@ let g:syntastic_html_tidy_exec = 'tidy'
 let g:syntastic_php_checkers = ['php']
 
 " 注释相关
-let g:doxygenToolkit_authorName="wuxiongjie@qutoutiao.net"
+let g:doxygenToolkit_authorName="xjiewu@gmail.com"
 let g:doxygenToolkit_briefTag_funcName="yes"
 map <leader>a :DoxAuthor<CR>
 map <leader>c :Dox<CR>
