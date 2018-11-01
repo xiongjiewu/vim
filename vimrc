@@ -11,6 +11,7 @@ Plug 'mileszs/ack.vim'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'airblade/vim-gitgutter'
 Plug 'tpope/vim-fugitive'
+Plug 'fatih/vim-go'
 
 Plug 'Townk/vim-autoclose'
 Plug 'godlygeek/tabular'
