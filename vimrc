@@ -7,6 +7,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'jacoborus/tender.vim'
 Plug 'lvht/fzf-mru'|Plug 'junegunn/fzf'
 Plug 'mileszs/ack.vim'
+Plug 'davidhalter/jedi-vim'
 
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'airblade/vim-gitgutter'
